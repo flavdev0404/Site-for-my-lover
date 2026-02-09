@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW you actually love me that much?? 😔​🚀💝",  // Shows when they go past 5000%
+        high: "MORE LOVE MORE LOVE 💝💝",              // Shows when they go past 1000%
+        normal: "Finally 😔​😔​😔​"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest guy in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift poopy pants, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "I can't wait to take you out this saturday, i love you the most!",
+        emojis: "❤️❤️❤️❤️❤️"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dkizlk0p1/video/upload/v1770653061/Destroy_Lonely_-_if_looks_could_kill__Official_Audio__128k_nuf02f.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dkizlk0p1/video/upload/v1770656293/Cupid_s_Chokehold_Breakfast_in_America_128k_qj6yre.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
